@@ -1,0 +1,13 @@
+F:\VSProjects\TextAnalisys\bin\Debug\HarryPotterText.txt
+F:\VSProjects\TextAnalisys\bin\Debug\TextAnalysis.exe.config
+F:\VSProjects\TextAnalisys\bin\Debug\TextAnalysis.exe
+F:\VSProjects\TextAnalisys\bin\Debug\TextAnalysis.pdb
+F:\VSProjects\TextAnalisys\bin\Debug\nunit.framework.dll
+F:\VSProjects\TextAnalisys\bin\Debug\nunitlite.dll
+F:\VSProjects\TextAnalisys\obj\Debug\TextAnalysis.csproj.AssemblyReference.cache
+F:\VSProjects\TextAnalisys\obj\Debug\TextAnalysis.Properties.Resources.resources
+F:\VSProjects\TextAnalisys\obj\Debug\TextAnalysis.csproj.GenerateResource.cache
+F:\VSProjects\TextAnalisys\obj\Debug\TextAnalysis.csproj.CoreCompileInputs.cache
+F:\VSProjects\TextAnalisys\obj\Debug\TextAnalysis.csproj.CopyComplete
+F:\VSProjects\TextAnalisys\obj\Debug\TextAnalysis.exe
+F:\VSProjects\TextAnalisys\obj\Debug\TextAnalysis.pdb
